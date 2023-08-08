@@ -21,7 +21,7 @@ export default function Home() {
         transition={{ type: "tween", ease: "backOut", duration:0.5}}
       >
           <p onMouseEnter={() => {setIsHovered(true)}} onMouseLeave={() => {setIsHovered(false)}}>
-            I LOVE SUCKING THEIR DICKS AND THEIR BALLS.
+            I LOVE SUCKING THEIR DICKS :p
           </p>
       </motion.div>
 
